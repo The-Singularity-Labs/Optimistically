@@ -1,2 +1,2 @@
-# optimistically
+# Optimistically
 Optimization via mathematical programming
